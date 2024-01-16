@@ -1,0 +1,114 @@
+.footer .footer1 {
+    float: left;
+    margin-left: 82px;
+    margin-top: 68px;
+}
+
+.footer1 img {
+    width: 250px;
+    margin-left: 23px;
+    margin-top: -19px;
+}
+.footer1 p {
+    margin-top: 18px;
+    font-size: 13px;
+    font-style: inherit;
+    margin-left: 39px;
+}
+
+
+.footer .item {
+    float: left;
+    margin-top: 35px;
+    margin-left: 58px;
+    
+}
+.innericon ul li {
+    margin-top: 32px;
+}
+
+
+
+.item {
+    border-left: 1px solid;
+    padding-left: 58px;
+    border-color: #cdbdbd;
+    height: 258px;
+    margin-left: 73%;
+    padding-top: 6px;
+}
+
+.innercol2 h4 {
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #15304b;
+}
+.plast2 p {
+    font-size: 13px;
+    margin-top: 76px;
+    margin-left: 118px;
+    float: left;
+    font-style: italic;
+}
+.plast3 p {
+    
+    margin-top: 75px;
+    float: left;
+    margin-left: 36%;
+}
+.form {
+    margin-top: 29px;
+}
+.nav ul  {
+
+    list-style-type: none;
+
+
+}
+.inner1 ul {
+    
+    list-style-type: none;
+
+
+}
+.innericon ul {
+    list-style-type: none;
+}
+.inner1 ::before {
+    margin-right: -25px;
+    margin-left: -27px;
+}
+.innericon i.fa.fa-envelope {
+     margin-right: 17px;
+    margin-left: -27px;
+}
+.innericon .fa-phone:before {
+    margin-right: 17px;
+    margin-left: -27px;
+    } 
+.nav a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #6e6868;
+} 
+.border1 {
+    border-top: 1px solid;
+    margin-top: 59px;
+    color: #c0b5b5;
+    margin-left: 110px;
+    margin-right: 126px;
+}
+.plast2 {
+    margin-top: -50px;
+}
+.nav ul li {
+    margin-left: -36px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+.innercol11 h4 {
+    margin-top: 55px;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #15304b;
+}
